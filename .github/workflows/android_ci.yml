@@ -30,3 +30,4 @@ jobs:
       with:
         name: Release
         path: catalog/build/outputs/
+
